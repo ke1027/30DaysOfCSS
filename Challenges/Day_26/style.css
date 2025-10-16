@@ -8,10 +8,10 @@ body {
 }
 
 .loading {
-	width: 100px;
-	height: 100px;
+	width: 80px;
+	height: 80px;
   margin-right: 20px;
-	background-color: #A1458B;
+	background-color: red;
 	border-radius: 50px;
 	animation: loading 2s linear infinite;
 }
